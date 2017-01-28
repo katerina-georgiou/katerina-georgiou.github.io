@@ -1,2 +1,4 @@
 name: Katerina Georgiou
 markdown: kramdown
+
+theme: jekyll-theme-cayman
